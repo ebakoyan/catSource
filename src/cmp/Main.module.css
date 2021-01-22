@@ -1,0 +1,14 @@
+.card {
+    border-radius: 5px;
+    width: 320px;
+    margin: 20px auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: white
+}
+
+.card button {
+    margin: 20px 0;
+}

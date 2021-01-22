@@ -1,0 +1,14 @@
+.animal {
+    width: 320px;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+}
+
+.animal img {
+    border-radius: 50px;
+    width: 95%;
+    height: 95%;
+    /* transition: 1s all ease; */
+
+}
